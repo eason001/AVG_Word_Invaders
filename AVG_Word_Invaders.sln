@@ -1,7 +1,7 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVG_Word_Invaders.CSharp", "AVG_Word_Invaders.CSharp.csproj", "{CC9FD099-A86F-E3FA-59C0-0D46257EAD2A}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3B8373B7-C95F-EFF7-BE32-9536F95B7672}") = "AVG_Word_Invaders", "Assembly-CSharp.csproj", "{3657B6A6-E56B-52D8-4B24-07D2ECFBFA12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CC9FD099-A86F-E3FA-59C0-0D46257EAD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC9FD099-A86F-E3FA-59C0-0D46257EAD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC9FD099-A86F-E3FA-59C0-0D46257EAD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC9FD099-A86F-E3FA-59C0-0D46257EAD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3657B6A6-E56B-52D8-4B24-07D2ECFBFA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3657B6A6-E56B-52D8-4B24-07D2ECFBFA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3657B6A6-E56B-52D8-4B24-07D2ECFBFA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3657B6A6-E56B-52D8-4B24-07D2ECFBFA12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
